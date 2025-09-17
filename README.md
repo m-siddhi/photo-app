@@ -6,4 +6,4 @@ This project is an assignment to create a custom hook `useFetch` that fetches da
 [Click here to view the deployed app](https://laundry-mart-web.vercel.app/)
 
 ## 📂 GitHub Repository
-https://github.com/your-username/photos-app
+[https://github.com/m-siddhi/photo-app](https://github.com/m-siddhi/photo-app)
