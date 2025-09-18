@@ -7,7 +7,7 @@ const Products = () => {
   );
 
   if (loading) {
-    return <div className="loading-screen">Loading products...</div>;
+    return <div className="loading-screen">Loading...</div>;
   }
 
   if (error) {
@@ -16,7 +16,7 @@ const Products = () => {
 
   return (
     <div className="products-container">
-      <h1>Product Gallery</h1>
+      <h1>Gallery</h1>
       <div className="products-grid">
         {data &&
           data.slice(0, 20).map((product) => (
