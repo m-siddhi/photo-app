@@ -1,9 +1,14 @@
-# Photos App (React + Custom Hook)
+# Photos App
 
-This project is an assignment to create a custom hook `useFetch` that fetches data from an API, handles loading and error states, and displays photos in a grid.
+A simple React app that fetches and displays products 
 
-## 🚀 Live Demo
-[Click here to view the deployed app](https://photo-app-silk-nu.vercel.app/)
+## Features
 
-## 📂 GitHub Repository
-[https://github.com/m-siddhi/photo-app](https://github.com/m-siddhi/photo-app)
+- Fetches products from an API
+- Displays first 20 products in a grid layout
+- Handles loading and error states
+- Responsive layout using CSS Grid
+
+## Demo
+
+[Deployed Link](https://photo-app-silk-nu.vercel.app/)
